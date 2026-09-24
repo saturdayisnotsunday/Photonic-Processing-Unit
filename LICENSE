@@ -1,0 +1,33 @@
+Photonic Processing Unit (PPU) - Long Term Impact (LTI) Architecture License
+Copyright (c) 2026 Harshraj Chandravanshi (https://github.com/saturdayisnotsunday)
+
+This work—including all hardware schematics, physical blueprints, structural diagrams, 
+software emulator blocks, and microcode (collectively referred to as the "Work")—is licensed 
+under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+By accessing, copying, modifying, or distributing any part of this Work, you agree to 
+the following strict, non-negotiable terms:
+
+1. MANDATORY ATTRIBUTION (CRITICAL CREDIT REQUIREMENT):
+   Any person, institution, or entity that uses, references, remixes, transforms, or 
+   builds upon this Work in any capacity (including scientific papers, academic submissions, 
+   derivative software, or hardware reproductions) MUST prominently display a direct 
+   attribution to the original author. 
+   
+   The citation must be written exactly as follows in all public documentation, source code 
+   headers, and project readmes:
+   "Original PPU/LTI Architecture designed by Harshraj Chandravanshi (GitHub: @saturdayisnotsunday)"
+
+2. NON-COMMERCIAL USE ONLY:
+   You may NOT use this material, its core logic, or its physical layouts for commercial 
+   purposes, corporate product development, or financial gain. Any commercial exploitation 
+   of this architecture requires explicit, written contractual consent from the original author.
+
+3. RE-SHARE RESTRICTIONS:
+   If you remix, transform, or build upon the material, you must distribute your contributions 
+   under this exact same license, keeping this mandatory attribution clause intact.
+
+CORE DIGITAL FINGERPRINT IDENTIFIER: LTI_CORE_FINGERPRINT_MARKER_HEX_7B2_HARSHRAJ
+
+The Work is provided "as-is" for open-source engineering exploration, without any express 
+or implied warranties of any kind.
