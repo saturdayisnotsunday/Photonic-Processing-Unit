@@ -6,7 +6,7 @@ Below are the chronological engineering logbook passes for the Long Term Iterati
 
 ### LTI  1: Converging Dual-Beam Logic
 *Differential refractive index filtering via non-parallel input vectors.*
-![LTI 1](./I1.jpg)
+![LTI 1](./I1.png)
 
 
 
